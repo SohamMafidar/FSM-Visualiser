@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # FSM Visualizer
 
 Draws your FSM JSON as boxes and lines. Runs fully in the browser; nothing is uploaded.
