@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FSM Visualizer
 
 Draws your FSM JSON as boxes and lines. Runs fully in the browser; nothing is uploaded.
@@ -60,3 +61,7 @@ src/
 | Theme colours | top of `styles.css` |
 | Log format for the Trace tab | `core/trace.js` (`extractNames`) |
 | Spacing between boxes | top of `core/layout.js` |
+=======
+# FSM-Visualiser
+Visualise FSM to see different states and how transitions flow b/w state, see input data, paths from point to another, log trace and more
+>>>>>>> 74f8266f9c8885fe8f3132c81672e6b31e99c2ab
